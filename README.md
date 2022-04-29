@@ -1,4 +1,4 @@
-### Welcome to Hell fucker
+### Welcome to Hell, fucker
 ***
 - 👍 I write some of the planet's shittiest code 
 - 😉 I'm a dirty little goblin and I need to be punished 
