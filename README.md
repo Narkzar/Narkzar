@@ -6,4 +6,4 @@
 - 📚 I use (very poorly) C/C++, DM, Java and Python 
 ***
 ### Currently Working On:
-~~- <a href="https://github.com/The-Brightest-Star/Batavia" target="_blank">Batavia</a> - a BYOND game~~
+//~~- <a href="https://github.com/The-Brightest-Star/Batavia" target="_blank">Batavia</a> - a BYOND game~~
