@@ -8,3 +8,6 @@
 ### Currently Working On:
 Nothing
 ***
+<img src="https://img.shields.io/badge/-C++-00599C?logo=html5&logoColor=fff">
+<img src="#007396">
+<img src="#3776AB">
