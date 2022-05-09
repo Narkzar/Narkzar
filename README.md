@@ -7,3 +7,5 @@
 ***
 ### Currently Working On:
 Nothing
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Narkzar&show_icons=true&theme=radical
