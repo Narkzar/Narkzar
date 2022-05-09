@@ -8,4 +8,4 @@
 ### Currently Working On:
 Nothing
 ***
-<img src="https://img.shields.io/badge/-C++-00599C?logo=html5&logoColor=fff"><img src="https://img.shields.io/badge/-Java-007396?logo=html5&logoColor=fff"><img src="https://img.shields.io/badge/-Python-3776AB?logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/-C++-00599C?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-Java-007396?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=html5&logoColor=fff">
