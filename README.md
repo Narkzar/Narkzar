@@ -7,5 +7,6 @@
 ***
 ### Currently Working On:
 Nothing
+***
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NARKZAR&show_icons=true&theme=radical)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=NARKZAR&show_icons=true&theme=radical
